@@ -1,0 +1,17 @@
+# FastAPI and server
+fastapi==0.115.0
+uvicorn[standard]==0.31.0
+
+# Vector processing - Parquet + Polars
+polars==1.16.0
+pyarrow==18.1.0
+numpy==2.1.3
+
+# Request handling & validation
+pydantic==2.9.2
+
+# CORS and middleware
+python-multipart==0.0.12
+
+# Utilities
+python-dotenv==1.0.1
